@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.blog-card--container {
+  background-color: aqua;
+  padding: 18px;
+  width: 320px;
+  border-radius: 33px;
+}
+
+.blog-card--container img {
+  width: 100%;
+  border-radius: 15px;
+}
