@@ -8,16 +8,18 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #f4d04e;
 }
 
 .blog-card--container {
-  background-color: aqua;
-  padding: 18px;
+  background-color: hsl(0, 0%, 100%);
+  padding: 16px 20px;
   width: 320px;
-  border-radius: 33px;
+  height: 410px;
+  border-radius: 20px;
 }
 
 .blog-card--container img {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 13px;
 }
