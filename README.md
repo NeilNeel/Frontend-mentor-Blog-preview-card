@@ -33,10 +33,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/my-solution-web-view.png.jpg)
+![](./design/my-solution-web-view.png)
 
 - Active hover card:
-  ![](./design/my-solution-web-view-active.png.jpg)
+  ![](./design/my-solution-web-view-active.png)
 
 ### Links
 
