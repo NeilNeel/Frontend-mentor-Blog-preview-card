@@ -11,6 +11,14 @@
       href="./assets/images/favicon-32x32.png"
     />
 
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+
     <title>Frontend Mentor | Blog preview card</title>
 
     <!-- CSS file -->
@@ -20,13 +28,17 @@
     <div class="blog-card--container">
       <img src="./assets/images/illustration-article.svg" alt="" />
       <div class="blog-content">
-        <p>Learning</p>
-        <p>Published 20 Feb 2024</p>
-        <h4 class="blog-heading">HTML & CSS foundations</h4>
-        <p>
+        <p class="blog--category">Learning</p>
+        <p class="blog--date">Published 20 Feb 2024</p>
+        <h4>HTML & CSS foundations</h4>
+        <p class="blog--brief">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, unde.
           Lorem ipsum dolor sit amet.
         </p>
+        <div class="author-container">
+          <img src="./assets/images/image-avatar.webp" alt="author pic" />
+          <p>Neel Barvaliya</p>
+        </div>
       </div>
     </div>
   </body>
