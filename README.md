@@ -58,7 +58,7 @@ Throughout the development process, I discovered the REM rule of 62.5%, a valuab
 
 ## Author
 
-- Frontend Mentor - [@NeilNeel](https://www.frontendmentor.io/profile/NeilNeel)
+- Frontend Mentor - [@Neel Barvaliya](https://www.frontendmentor.io/profile/NeilNeel)
 
 ## Acknowledgments
 
