@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   background-color: hsl(47, 88%, 63%);
   font-family: "Figtree", "sans-serif";
 }
@@ -20,7 +20,7 @@ body {
   border-radius: 2.3rem;
   box-shadow: 0.8rem 0.8rem 0 0 black;
   border: 1px solid black;
-  margin: 1.2rem;
+  margin: 1.6rem;
 }
 
 .blog-card--container--active {
