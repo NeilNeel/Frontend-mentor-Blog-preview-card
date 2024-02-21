@@ -51,6 +51,7 @@ body {
 }
 
 .blog-content h4 {
+  display: inline-block;
   font-weight: 900;
   font-size: 23px;
   margin: 10px 0;
