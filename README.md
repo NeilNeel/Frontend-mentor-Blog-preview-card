@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://neilneel.github.io/Frontend-mentor-Blog-preview-card/)
 
 ## My process
 
